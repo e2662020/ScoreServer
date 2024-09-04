@@ -1,0 +1,4 @@
+name: ScoreServer
+version: '0.01-SNAPSHOT'
+main: com.RATE.score_Server.Score_Server
+api-version: '1.20'
